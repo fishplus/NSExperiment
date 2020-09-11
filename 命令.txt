@@ -1,6 +1,0 @@
-cd d:github
-git init
-git add .
-git commit -m "提交文件“//双引号里为注释
-git remote add origin repo地址
-git push -u origin master
